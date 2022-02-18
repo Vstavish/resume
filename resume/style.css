@@ -22,10 +22,9 @@ strong{
 
 /* section titles */
 strong {
-  color:white;
-  background-color: #33485e;
+  color:#33485e;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 1.5em;
 }
 
