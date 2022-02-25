@@ -6,8 +6,8 @@ BODY {
   font-weight: 400;
 }
 /* name */
-h1{
-  font-size: 3.5em;
+#name {
+  font-size: 1em;
   text-transform: : uppercase;
   color: #33485e;
   text-align: center;
