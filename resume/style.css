@@ -1,9 +1,129 @@
 /* styles for my resume */
+<style type="text/css">
+/*css code*/
+.stupid {
+  color: pink;
+}
 
-<style rel="stylesheet" type="text/css" href="style.css">
-h1 {
-  font-size: 36px;
-  color:#33485e;
+
+ .sectionheader {
+   color: white;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   background-color: #33485e;
+   font-weight: 400;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   margin-left: 0px;
+   margin-right: 0px;
+   width: 70%;
+   min-width: 300px;
+ }
+
+
+.jobtitle {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.organization {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+.date {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 400;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.li {
+  font-size: 1em;
+}
+
+.description {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.menu {
+  display: flow-root;
+  text-align:center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#degrees {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  font-weight: 400;
+}
+
+#do {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  font-weight: 400;
+}
+
+#myname {
+  font-size: 3.5em;
+  color: #33485e;
+  font-weight: 400;
+  border-top: 0px;
+  border-left: 0px;
+  border-left: 0px;
+  border-bottom: 2px;
+  border-color: #33485e;
+  border-width: 300px;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#title {
+  text-transform: uppercase;
+  font-size: 2em;
+  color: #33485e;
+  font-weight:600;
   text-align: center;
 }
- </style>
+
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+  </style>
