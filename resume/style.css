@@ -2,17 +2,12 @@
 
 <style>
 
-.bi {
-
-  font-size:3em;
-
-}
-
-
-.col-md-4 {
-
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #33485e;
+  text-transform: uppercase;
+  font-size: 3.5em;
   text-align: center;
-
 }
 
 </style>
