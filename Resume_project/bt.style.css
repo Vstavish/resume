@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    <head>
+      <title> Skate! Newsletter </title>
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+.btn-primary {
+  margin-top: 25px;
+  font-family: 'Special Elite', cursive;
+}
+
+.container {
+  align-content: center;
+  font-family: 'Special Elite', cursive;
+}
+
+.col {
+  align-content: center;
+font-family: 'Special Elite', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Special Elite', cursive;
+}
+
+.navbar-toggler {
+  font-family: 'Special Elite', cursive;
+}
+
+#navbarSupportContent {
+  font-family: 'Special Elite', cursive;
+}
+
+.nav-link-active {
+  font-family: 'Special Elite', cursive;
+}
+
+.nav-link {
+  font-family: 'Special Elite', cursive;
+}
+
+h2 {
+    font-family: 'Special Elite', cursive;
+}
+
+h3 {
+    font-family: 'Special Elite', cursive;
+}
+
+h4 {
+    font-family: 'Special Elite', cursive;
+}
+
+.icon {
+  font-size: 3em;
+  font-family: 'Special Elite', cursive;
+}
+
+.row {
+  padding-bottom: 50px;
+
+}
+
+
+@media only screen and (max-width: 500px) {
+h2 {
+padding-top: 50px;
+}
+
+.btn {
+  background-color: teal !important;
+}
+
+</style>
