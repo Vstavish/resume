@@ -3,6 +3,17 @@
   width: 900px;
 }
 
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.byline {
+  font-size: 3em;
+  font-style: italic;
+  text-align: left;
+}
+
 blockquote {
   font-size: 6em;
   font-style: italic;
