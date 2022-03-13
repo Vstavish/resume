@@ -6,13 +6,20 @@
 h1 {
   text-align: center;
   font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
 }
 
-.byline {
-  font-size: 3em;
-  font-style: italic;
+#byline {
   text-align: left;
-  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+  font-family: Helvetica, Sans-Serif;
+}
+
+p {
+  font-size: 13px;
+  font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 blockquote {
