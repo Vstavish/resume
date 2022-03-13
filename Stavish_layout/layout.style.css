@@ -12,7 +12,6 @@
 h1 {
   text-align: center;
   font-weight: bold;
-  text-decoration: underline;
   font-family: Helvetica, sans-serif;
 }
 
@@ -21,6 +20,7 @@ h1 {
   font-style: italic;
   font-size: 14px;
   font-family: Helvetica, Sans-Serif;
+  color: #838383;
 }
 
 .image1 {
