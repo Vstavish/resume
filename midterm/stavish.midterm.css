@@ -1,0 +1,40 @@
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Noto Serif Display', serif;
+}
+
+ #byline {
+  font-size: 1.25em;
+  font-weight: italic;
+  text-align: center;
+  color: #838383;
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: left;
+  font-family: 'Noto Serif Display', serif;
+}
+
+body {
+  font-size: 12px;
+  font-family: 'Helvetica', arial, sans-serif;
+}
+
+.image1 {
+  display: block;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
