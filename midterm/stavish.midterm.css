@@ -38,3 +38,33 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.image2 {
+  display: block;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption2 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image3 {
+  display: block;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caption3 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
