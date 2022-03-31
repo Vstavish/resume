@@ -45,11 +45,12 @@ html, body, {
    font-size: 1.5em;
    text-transform: uppercase;
    font-weight: 400;
+   margin-top: 10px;
+   margin-bottom: 20px;
    margin-left: 0px;
    margin-right: 0px;
    width: 70%;
    min-width: 300px;
-   justify-content: center;
    text-align: center;
  }
 
