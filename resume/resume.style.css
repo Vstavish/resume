@@ -1,9 +1,6 @@
 /* styles for my resume */
 <style type="text/css">
 /*css code*/
-.stupid {
-  color: pink;
-}
 
 html, body, {
     position:fixed;
@@ -13,6 +10,8 @@ html, body, {
     right:0;
     height: 100%;
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .nav {
