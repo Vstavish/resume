@@ -161,6 +161,7 @@ ul.nav {
   padding-left: 0px;
   background-color: #E683BD;
   text-align: center;
+  font-size: 1em;
 }
 ul.nav > li {
   display: inline-block;
