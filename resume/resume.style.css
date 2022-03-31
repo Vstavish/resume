@@ -184,7 +184,46 @@ ul.nav > li > a {
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
+}
 
+.clip2 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.clip3 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.clip4 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.clip5 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
   </style>
