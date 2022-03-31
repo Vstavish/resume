@@ -213,6 +213,10 @@ ul.nav > li > a {
   text-align: center;
 }
 
+.right {
+  align-content: center;
+}
+
 .clip1 .right img {
   display: block;
   width: 300px;
