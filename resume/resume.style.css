@@ -178,6 +178,7 @@ ul.nav > li > a {
 
 .clip .right img {
     width: 30px;
+    display: block;
 }
 
   </style>
