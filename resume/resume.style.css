@@ -159,7 +159,7 @@
 
 ul.nav {
   padding-left: 0px;
-  background-color: #3D99CE;
+  background-color: #E683BD;
   text-align: center;
 }
 ul.nav > li {
@@ -167,7 +167,7 @@ ul.nav > li {
   padding: 10px 20px;
 }
 ul.nav > li:hover {
-  background-color: #2779BF;
+  background-color: #E683BD;
 }
 ul.nav > li > a {
   color: white;
