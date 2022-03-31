@@ -177,9 +177,12 @@ ul.nav > li > a {
 }
 
 .clip .right img {
-    height: 253px;
-    width: 30px;
-    display: inline-block;
+  display: block;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
   </style>
