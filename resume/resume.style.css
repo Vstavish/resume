@@ -176,4 +176,8 @@ ul.nav > li > a {
   text-decoration: none;
 }
 
+.clip .right img {
+    width: 300px;
+}
+
   </style>
