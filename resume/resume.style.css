@@ -170,11 +170,14 @@ html, body, {
   margin: 10px;
 }
 
+#edsectionheader{
+  color: white;
+  background-color: #E683BD;
+  background-size: cover;
+  text-align: left;
+}
+
 #education {
-color: white;
-background-color: #E683BD;
-background-size: cover;
-text-align: left;
 }
 
 #skills {
