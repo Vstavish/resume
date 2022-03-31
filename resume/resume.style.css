@@ -164,9 +164,9 @@ html {
 #title {
   text-transform: uppercase;
   font-size: 2em;
-  color: #33485e;
+  color: black;
   font-weight:600;
-  text-align: center;
+  text-align: left;
 }
 
 #container {
