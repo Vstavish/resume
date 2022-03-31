@@ -115,7 +115,7 @@ html {
   padding-right: 0px;
 }
 
-#sectionheader {
+.sectionheader {
   text-align: center;
   text-transform: uppercase;
   color: black;
