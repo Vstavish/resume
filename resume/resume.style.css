@@ -139,7 +139,7 @@
   margin: 10px;
 }
 
-#resume {
+#experience {
   font-size: 1em;
   color: black;
   font-weight:200;
@@ -148,6 +148,14 @@
   border: 15px #E683BD;
   padding: 20px;
   margin: 10px;
+}
+
+#education {
+
+}
+
+#skills {
+  
 }
 
 #container {
