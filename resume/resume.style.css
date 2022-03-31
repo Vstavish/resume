@@ -15,11 +15,9 @@ html, body, {
 }
 
 p {
-font-family: 'Noto Serif Display', serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Serif', serif;
 font-family: 'Source Sans Pro', sans-serif;
-font-family: 'Special Elite', cursive;
 }
 
 .topper {
