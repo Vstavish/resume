@@ -226,4 +226,24 @@ ul.nav > li > a {
   margin-bottom: auto;
 }
 
+.clip6 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.clip7 .right img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
   </style>
