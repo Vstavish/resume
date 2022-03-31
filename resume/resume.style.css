@@ -28,6 +28,7 @@ html, body, {
 .nav {
     text-align: center;
     background: #E683BD;
+    background-size: cover;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
