@@ -22,11 +22,7 @@
     justify-content: center;
     height: 300px;
 }
-*, *::before, *::after {
-    -webkit-box-sizing: inherit;
-    box-sizing: inherit;
-}
-user agent stylesheet
+
 header {
     display: block;
 }
