@@ -160,11 +160,15 @@ html {
   margin: 0 auto;
 }
 
-#title {
+#about {
   font-size: 1em;
   color: black;
   font-weight:200;
   text-align: left;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 
 #container {
