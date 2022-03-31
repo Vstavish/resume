@@ -115,6 +115,12 @@ html {
   padding-right: 0px;
 }
 
+#sectionheader {
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+  font-size: 1.5em;
+}
 
 #degrees {
   margin-top: 5px;
