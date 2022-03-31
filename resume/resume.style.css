@@ -19,7 +19,6 @@ html, body, {
     background: #E683BD;
     background-size: cover;
     position: relative;
-    overflow: visible;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
