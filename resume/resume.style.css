@@ -162,6 +162,7 @@ ul.nav {
   background-color: #E683BD;
   text-align: center;
   font-size: 1.5em;
+  text-transform: uppercase;
 }
 ul.nav > li {
   display: inline-block;
