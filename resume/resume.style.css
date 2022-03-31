@@ -165,8 +165,8 @@ html {
   color: black;
   font-weight:200;
   text-align: left;
-  width: 300px;
-  border: 15px solid green;
+  width: 600px;
+  border: 15px #33485e;
   padding: 50px;
   margin: 20px;
 }
