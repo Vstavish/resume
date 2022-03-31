@@ -28,7 +28,6 @@ html, body, {
 .nav {
     text-align: center;
     background: #E683BD;
-    background-size: cover;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -36,7 +35,7 @@ html, body, {
     -ms-flex-align: center;
     align-items: center;
     justify-content: center;
-    height: 200px;
+    height: 150px;
 }
 
 
