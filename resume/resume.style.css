@@ -171,6 +171,17 @@ html {
   margin: 10px;
 }
 
+#resume {
+  font-size: 1em;
+  color: black;
+  font-weight:200;
+  text-align: left;
+  width: 1300px;
+  border: 15px #E683BD;
+  padding: 20px;
+  margin: 10px;
+}
+
 #container {
   width: 100%;
   max-width: 1200px;
