@@ -5,7 +5,7 @@
   color: pink;
 }
 
-.subnav-hero-section {
+.nav {
     text-align: center;
     background: #E683BD;
     background-size: cover;
@@ -155,6 +155,23 @@
   max-width: 1200px;
   margin: 0 auto;
   padding-bottom: 30px;
+}
+
+ul.nav {
+  padding-left: 0px;
+  background-color: #3D99CE;
+  text-align: center;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+ul.nav > li:hover {
+  background-color: #2779BF;
+}
+ul.nav > li > a {
+  color: white;
+  text-decoration: none;
 }
 
   </style>
