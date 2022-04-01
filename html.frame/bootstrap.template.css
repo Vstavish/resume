@@ -15,11 +15,13 @@
 p {
   font-family: 'Georgia', serif;
   line-height: 180%;
+  text-align: left;
 }
 
 h1{
   font-size: 2em;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
   font-family: font-family: 'Montserrat', sans-serif;
+
 }
