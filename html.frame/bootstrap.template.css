@@ -27,5 +27,6 @@ h1{
 
 .image {
   width: 70%;
-  align-content: center;
+margin-left: 0 auto;
+margin-right: 0 auto;
 }
