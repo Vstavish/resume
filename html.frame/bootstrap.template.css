@@ -16,3 +16,10 @@ p {
   font-family: 'Georgia', serif;
   line-height: 180%;
 }
+
+h1{
+  font-size: 2em;
+  font-weight: 700;
+  text-align: center;
+  font-family: font-family: 'Montserrat', sans-serif;
+}
