@@ -23,5 +23,8 @@ h1{
   font-weight: 700;
   text-align: left;
   font-family: font-family: 'Montserrat', sans-serif;
+}
 
+.image {
+  width: 70%
 }
