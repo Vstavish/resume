@@ -44,10 +44,10 @@ p {
 }
 
 .chapter-head {
-  font-size:3em;
+  font-size: 3em;
   font-family: 'Oswald', sans-serif;
   padding-top:20px;
-  font-weight:900;
+  font-weight: bold;
 }
 
 .stack-image {
