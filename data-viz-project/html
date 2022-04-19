@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!--begin header-->
+  <head>
+    <title> Stavish Midterm </title>
+  <link rel="stylesheet" type="text/css" href="inclass.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+
+<!-- Load c3.css -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.6.14/c3.min.css" rel="stylesheet">
+
+  <!-- Load d3.js and c3.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.6.14/c3.min.js"></script>
+
+    </head>
+    <!--end header-->
+
+    <!--begin body-->
+
+    <body>
+
+
+
+<iframe title="Percentage of Americans 15 and up with a disability" aria-label="Bar Chart" id="datawrapper-chart-RvNRd" src="https://datawrapper.dwcdn.net/RvNRd/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="205"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+<iframe title="Percentage of Americans who say they have difficulty walking or with stairs " aria-label="Bar Chart" id="datawrapper-chart-Pg9hG" src="https://datawrapper.dwcdn.net/Pg9hG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="215"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+<iframe title="DI benefits in each Maryland county" aria-label="Map" id="datawrapper-chart-iPkLf" src="https://datawrapper.dwcdn.net/iPkLf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="469"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+
+
+
+</body>
