@@ -1,0 +1,31 @@
+.headerimage {
+  width: 100%;
+  height: 100%;
+}
+
+.caption {
+font-size: 1em;
+color: gray;
+font-family: font-family: 'Montserrat', sans-serif;
+font-style: italic;
+}
+
+#byline {
+font-family: font-family: 'Montserrat', sans-serif;
+}
+
+.subhead {
+font-family: font-family: 'Montserrat', sans-serif;
+}
+
+.bodytext {
+font-family: font-family: 'Montserrat', sans-serif;
+}
+
+#blockquote1 {
+font-family: font-family: 'Montserrat', sans-serif;
+}
+
+#blockquote2 {
+font-family: font-family: 'Montserrat', sans-serif;
+}
