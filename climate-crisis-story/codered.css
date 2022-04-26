@@ -20,6 +20,26 @@ font-size: 2.5em;
 color: #A20B06;
 }
 
+#blockquote1 {
+font-family: font-family: 'Montserrat', sans-serif;
+font-size: 2em;
+font-style: italic;
+text-align: center;
+color: #C9766D;
+margin-left: 35%;
+margin-right: 35%;
+}
+
+#blockquote2 {
+font-family: font-family: 'Montserrat', sans-serif;
+font-size: 2em;
+font-style: italic;
+text-align: center;
+color: #C9766D;
+margin-left: 35%;
+margin-right: 35%;
+}
+
 #bodytext1 {
 font-family: font-family: 'Montserrat', sans-serif;
 text-align: left;
@@ -34,7 +54,7 @@ margin-right: 20%;
   margin-right: 20%;
 }
 
-#bodytext3 {
+.bodytext3 {
   font-family: font-family: 'Montserrat', sans-serif;
   text-align: left;
   margin-left: 20%;
@@ -48,7 +68,7 @@ margin-right: 20%;
   margin-right: 20%;
 }
 
-#bodytext5 {
+.bodytext5 {
   font-family: font-family: 'Montserrat', sans-serif;
   text-align: left;
   margin-left: 20%;
@@ -88,6 +108,13 @@ margin-right: 20%;
   text-align: left;
   margin-left: 20%;
   margin-right: 20%;
+}
+
+.col-md-6 {
+  width: 80%;
+  height: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 /* The sidebar menu */
