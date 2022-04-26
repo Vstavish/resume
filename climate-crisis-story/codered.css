@@ -20,6 +20,14 @@ font-size: 2.5em;
 color: #A20B06;
 }
 
+.image {
+  width: 100%;
+  height: 100%;
+  margin-left: 0%;
+  margin-right: 10%;
+  justify-content: center;
+}
+
 #blockquote1 {
 font-family: font-family: 'Montserrat', sans-serif;
 font-size: 2em;
@@ -40,7 +48,7 @@ margin-left: 35%;
 margin-right: 35%;
 }
 
-#bodytext1 {
+.bodytext1 {
 font-family: font-family: 'Montserrat', sans-serif;
 text-align: left;
 margin-left: 20%;
@@ -111,10 +119,10 @@ margin-right: 20%;
 }
 
 .col-md-6 {
-  width: 80%;
+  width: 50%;
   height: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 25%;
+  margin-right: 20%;
 }
 
 /* The sidebar menu */
