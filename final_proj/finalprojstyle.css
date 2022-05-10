@@ -1,3 +1,8 @@
+body{
+overflow-y: scroll;
+overflow-x: hidden;
+}
+
 
 .headerimage {
   width: 100%;
@@ -36,24 +41,55 @@
   display:inline-block;
 }
 
+.row-number {
+    display: flex;
+}
+
 .col-md-6 {
-  display:inline-block;
 }
 
 .vanmunching {
-  width:50%;
+  width:88%;
   max-width:100%;
   margin-right: 10%;
-  height:50%;
+  height:100%;
   float: right;
 }
 
 .stairs{
-  width:50%;
+  width:88%;
   max-width:100%;
   margin-left: 10%;
-  height:50%;
+  height:100%;
+  max-height: 100%;
   float: left;
+}
+
+.captionstairs {
+  width:90%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+  margin-right: 100%;
+  margin-bottom:30px;
+  padding-bottom: 1em;
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.75em;
+  color:#999;
+  display: inline-block;
+}
+
+.captionvanmunching {
+  width:100%;
+  margin-right: 80%;
+  margin-left: 5%;
+  margin-bottom:30px;
+  padding-bottom: 1em;
+  font-family: 'Oswald', sans-serif;
+  color:#999;
+  font-size: 0.75em;
+  align-items: center;
+  display: inline-block;
 }
 
 .caption {
@@ -113,7 +149,7 @@ margin-right: 20%;
   margin-right: 15%;
 }
 
-.number2 {
+.col-lg-12-number2 {
   display: block;
   width: 990px;
   height: 900px;
@@ -154,6 +190,8 @@ margin-right: 20%;
   min-height: 300px;
   padding-top:10px;
   margin-top:10px;
+  width: auto;
+  display: block;
 }
 
 .footer p {
@@ -161,6 +199,7 @@ margin-right: 20%;
   background-color: #B92F11;
   color: white;
   text-align: center;
+  display: block;
 }
 
 .col-md-12 {
@@ -171,76 +210,6 @@ margin-right: 20%;
   margin-left: auto;
   margin-right: auto;
 }
-
-.sidebar {
-  width: 25%;
-  height: 5vh;
-  margin-left: 100%;
-  margin-right: -1%;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  float: right;
-  margin-left: 100%;
-}
-
-.button {
-  text-align: center;
-  font-size: 1em;
-  font-family: font-family: 'Montserrat', sans-serif;
-}
-
-.title {
-    font-weight: bold;
-    font-family: font-family: 'Montserrat', sans-serif;
-}
-
-/* position the dropdown content */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Red Dropdown Button */
-.dropbtn {
-  background-color: #A20B06;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  float: right;
-  font-family: font-family: 'Montserrat', sans-serif;
-}
-
-/* Dropdown Content */
-.dropdown-content {
-  display: none;
-  position:absolute;
-  background-color: #f1f1f1;
-  min-width: 200px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-  font-size: 1em;
-  font-family: font-family: 'Montserrat', sans-serif;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: black;
-  padding: 10px 12px;
-  text-decoration: none;
-  display: block;
-  font-family: font-family: 'Montserrat', sans-serif;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 @media screen and (max-width: 500px) {
 .column {
