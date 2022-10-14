@@ -72,6 +72,15 @@ hr {
   background-color: #FF66B3;
 }
 
+.storylinks {
+  font-size: 25px;
+  font-family: 'times', serif;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+}
+
 p {
   margin-left: 5%;
   margin-right: 25%;
